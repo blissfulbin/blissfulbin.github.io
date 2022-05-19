@@ -21,6 +21,7 @@ a:hover {
 @media (min-width: 200px){
   .card{
     min-width: 350px;
+    max-width: 400px;
     width: auto;
     height: auto;
   }
@@ -47,9 +48,10 @@ a:hover {
   }
 }
 
-@media (min-width: 1000px) {
+@media (min-width: 800px) {
   .card{
-    min-width: 700px;
+    min-width: 300px;
+    max-width: 100%;
     width: auto;
   }
   #container1{
@@ -138,7 +140,6 @@ audio::-webkit-media-controls-play-button:hover{
   border-width: 4px;
   border-color: #6b8440;
   background-color: #edebd1;
-  max-width: 100%;
   position: relative;
 
   z-index: 1;
