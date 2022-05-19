@@ -275,6 +275,7 @@ ul {
     font-style: italic;
     position: fixed;
     margin-bottom:3px;
+    margin-top: -7px;
     color: #2d3e0d;
 }
 .footer a {
