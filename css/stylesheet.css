@@ -48,7 +48,19 @@ a:hover {
   }
   #container5{
     height: 260px;
-    width: 270px;
+    width: 300px;
+  }
+  .basic-info{
+    margin-left: -20px;
+    margin-right:5px;
+  }
+}
+@media (min-width: 520px) {
+  .card{
+    min-width: 350px;
+    max-width: 80%;
+    width: auto;
+    height: auto;
   }
 }
 
@@ -83,6 +95,9 @@ a:hover {
   #container5{
     height: 200px;
     width: 270px;
+  }
+  .basic-info{
+    margin-left: 5px;
   }
 
 }
