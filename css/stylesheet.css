@@ -212,13 +212,14 @@ div.columns:before{
 div.title{
   float: left;
   margin-top: -5px;
+  margin-left: 4px;
 }
 
 .ult{
   float: left;
   margin-left: 10px;
   margin-top: 3px;
-  font-size: 15px;
+  font-size: 14.5px;
 }
 
 .stan-info{
